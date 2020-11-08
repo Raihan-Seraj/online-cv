@@ -95,7 +95,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      A few interesting projects that I have done during my graduate studies at McGill University
+      Selected interesting projects that I have done during my graduate studies at McGill University.
     assignments:
       - title: Learning in games.
         link: "#"
@@ -120,7 +120,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      Contains the list of both published and un published articles.
+      
     papers:
       - title: Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods
         link: "https://arxiv.org/pdf/1912.05104.pdf"
