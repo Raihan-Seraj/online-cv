@@ -60,7 +60,7 @@ education:
         Thesis: Learning in the presence of partial observability and concept drifts. 
 experiences:
     - role: Mila Scientist in Residence 
-      time: March 2019 - Present
+      time: Mar. 2019 - Present
       company: Paladin AI, Montreal
       details: |
         - Worked on learning algorithms for automatic flight data segmentation through automatic feature learning.
@@ -68,7 +68,7 @@ experiences:
         from aircraft simulators that can identify and segment pilot reactions to malfunctions and
         assign these reactions a proficiency metric.
     - role: Research Scientist Intern
-      time: Mar 2018 - May 2019
+      time: Mar. 2018 - May 2019
       company: Aerial Technologies, Montreal
       details: |
         - Worked on learning algorithms for passive wifi localization, using wifi CSI data.
@@ -83,6 +83,15 @@ experiences:
         - Worked towards developing an android software using the concept of delay tolerant network capable of handling delayed request for online news paper during lack of network infrastructure.
         - Developed a quad-copter with a team to work as an air borne extension providing bird's eye view of a wireless controlled rover capable of sending live video stream.
         - Developed a device using twitter api,arduino and raspberry pi that is capable of remotely switching and regulating  any 220V ac devices using the internet.
+    - role: Reseearch Intern
+      time: Feb. 2014 - Nov. 2015
+      company: IUT Innovation Lab
+      details: |
+        - Worked towards developing an embedded security system using arduino and raspberry pi interfaced with sensors that was integrated in a concrete to build a smart concrete systems for homes.
+        - Worked towards developing an android software using the concept of delay tolerant network capable of handling delayed request for online news paper during lack of network infrastructure.
+        - Developed a quad-copter with a team to work as an air borne extension providing bird's eye view of a wireless controlled rover capable of sending live video stream.
+        - Developed a device using twitter api,arduino and raspberry pi that is capable of remotely switching and regulating  any 220V ac devices using the internet. 
+
 projects:
     title: Projects
     intro: >
