@@ -54,81 +54,60 @@ education:
         - Game theory
         - Decentralized Control
         - Machine Learning
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MEng in Electrical and Computer Engineering
+      university: McGill University University
+      time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+        Thesis: Learning in the presence of partial observability and concept drifts. 
+research experiences:
+    - role: Mila Scientist in Residence 
+      time: March 2019 - Present
+      company: Paladin AI, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Worked on learning algorithms for automatic flight data segmentation through automatic feature learning.
+        -{Worked with the R&D team to devise suitable learning algorithms for handling time series data
+        from aircraft simulators that can identify and segment pilot reactions to malfunctions and
+        assign these reactions a proficiency metric.
+    - role: Research Scientist Intern
+      time: Mar 2018 - May 2019
+      company: Aerial Technologies, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Worked on learning algorithms for passive wifi localization, using wifi CSI data.
+        - Worked on deep learning algorithms for time series to classify fall detection from wifi CSI data.
+        - Used time delayed embeddings to extract useful features necessary for activity recognition.
+        - Worked on transformer models for fall detection using raw channel state information features.
+    - role: Research Engineer
+      time: Dec. 2015 - Dec. 2016
+      company: Department of Biomedical Physics and Technology, University of Dhaka, Bangladesh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Worked towards developing an embedded security system using arduino and raspberry pi interfaced with sensors that was integrated in a concrete to build a smart concrete systems for homes.
+        - Worked towards developing an android software using the concept of delay tolerant network capable of handling delayed request for online news paper during lack of network infrastructure.
+        - Developed a quad-copter with a team to work as an air borne extension providing bird's eye view of a wireless controlled rover capable of sending live video stream.
+        - Developed a device using twitter api,arduino and raspberry pi that is capable of remotely switching and regulating  any 220V ac devices using the internet.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A few interesting projects that I have done during my graduate studies at McGill University
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Learning in games
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Studied different learning frameworks in stochastic games since learning in game theoretic framework is interesting as it does not necessarily guarantee convergence to Nash equilibrium or any concepts of equilibria in general. The project focused on analyzing one of the simplest and earliest form of learning algorithm known as the fictitious play"
 
-      - title: Tempo
+      - title: Soft Trust DDPG
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Devised a trust region interpretation for Deep Deterministic Policy gradient algorithms. The proposed architecture allowed the use of regularization for  deterministic policies in different continuous control tasks."
 
-      - title: Atom
+      - title: Reinforcement Learning in Multi-agent Swarms
+        link: "#"
+        tagline: "An adapted version of conventional single agent RL algorithm was applied for swarm robotics in the context of swarms adapting to different target distribution, the work was further extended to incorporate hierarchical reinforcement learning architecture."
+
+      - title: ICLR Reproducibility Challenge:} Analyzed the reproducibility of deep reinforcement learning algorithms for ICLR 2017 Reproducibility challenge.
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Unifying On-Policy and Off-Policy Learning in TD Learning and Actor Critic Methods
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Combined the stability of On-Policy TD learning with the efficiency of Off-Policy Learning and proposed a unified approach where the control algorithm either uses on-policy sampled action or off-policy samples depending on the amount of exploration. The idea has been further extended to Actor Critic methods and Q($\sigma$) algorithm with eligibility traces."
 
 publications:
     title: Publications
