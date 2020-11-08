@@ -129,19 +129,19 @@ publications:
         conference: "Electronics 9.8 (2020): 1295."
 
       - title: Approximate information state for approximate planning and reinforcement learning in partially observed systems
-      link: "https://arxiv.org/abs/2010.08843"
-      authors: Jayakumar Subramanian, Amit Sinha, Raihan Seraj, Aditya Mahajan
-      conference: "Under submission"
+        link: "https://arxiv.org/abs/2010.08843"
+        authors: Jayakumar Subramanian, Amit Sinha, Raihan Seraj, Aditya Mahajan
+        conference: "Under submission"
 
       - title: Concept Drift for Big Data
-      link: "https://link.springer.com/chapter/10.1007/978-3-030-35642-2_2"
-      authors: Raihan Seraj, Mohiuddin Ahmed
-      conference: "Combating Security Challenges in the Age of Big Data"
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-35642-2_2"
+        authors: Raihan Seraj, Mohiuddin Ahmed
+        conference: "Combating Security Challenges in the Age of Big Data"
 
       - title: Doubly Robust Off-Policy Actor Critic Algorithms for Reinforcement Learning
-      link: "hhttps://arxiv.org/pdf/1912.05109.pdf"
-      authors: Riashat Islam, Raihan Seraj, Samin Yeasar Arnob, Doina Precup
-      conference: "NeurIPS 2019 Workshop on Safety and Robustness in Decision Making"
+        link: "hhttps://arxiv.org/pdf/1912.05109.pdf"
+        authors: Riashat Islam, Raihan Seraj, Samin Yeasar Arnob, Doina Precup
+        conference: "NeurIPS 2019 Workshop on Safety and Robustness in Decision Making"
 
 skills:
     title: Skills &amp; Proficiency
