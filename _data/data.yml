@@ -36,14 +36,13 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Research Interest
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     - Multi-agent Systems
+     - Reinforcement Learning
+     - Machine Learning
+     - Game Theory
+      
 education:
     - degree: PhD in Electrical and Computer Engineering 
       university: McGill University 
@@ -116,20 +115,35 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods
+        link: "https://arxiv.org/pdf/1912.05104.pdf"
+        authors: Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, Doina Precup
+        conference: NeurIPS 2019 Workshop on Optimization Foundations for Reinforcement Learning
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Reinforcement Learning for Mean-field Teams"
+        link: "http://www.ece.mcgill.ca/~amahaj1/projects/reinforcement-learning/conference/2019-ala.pdf"
+        authors: Jayakumar Subramanian, Raihan Seraj, Aditya Mahajan
+        conference: "AAMAS Workshop on Adaptive and Learning Agents, Montreal, Canada, 13-17 May, 2019 ."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The k-means Algorithm A Comprehensive Survey and Performance Evaluation
+        link: "https://www.mdpi.com/2079-9292/9/8/1295"
+        authors: Mohiuddin Ahmed, Raihan Seraj
+        conference: " Electronics 9.8 (2020): 1295."
+
+      - title: Approximate information state for approximate planning and reinforcement learning in partially observed systems
+      link: "https://arxiv.org/abs/2010.08843"
+      authors: Jayakumar Subramanian, Amit Sinha, Raihan Seraj, Aditya Mahajan
+      conference: "Under submission"
+
+      - title: Concept Drift for Big Data
+      link: "https://link.springer.com/chapter/10.1007/978-3-030-35642-2_2"
+      authors: Raihan Seraj, Mohiuddin Ahmed
+      conference: "Combating Security Challenges in the Age of Big Data"
+
+      - title: Doubly Robust Off-Policy Actor Critic Algorithms for Reinforcement Learning
+      link: "hhttps://arxiv.org/pdf/1912.05109.pdf"
+      authors: Riashat Islam, Raihan Seraj, Samin Yeasar Arnob, Doina Precup
+      conference: "NeurIPS 2019 Workshop on Safety and Robustness in Decision Making"
 
 skills:
     title: Skills &amp; Proficiency
@@ -155,6 +169,3 @@ skills:
       - name: Scikit-learn
         level: 90%
       
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
