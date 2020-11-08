@@ -168,7 +168,7 @@ skills:
       - name: C++
         level: 30%
 
-      - name: Ruby on Rails
+      - name: Numpy, Pandas, Scipy
         level: 85%
 
       - name: Pytorch, Chainer, MXnet, Tensorflow
