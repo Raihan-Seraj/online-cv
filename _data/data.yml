@@ -64,7 +64,7 @@ experiences:
       company: Paladin AI, Montreal
       details: |
         - Worked on learning algorithms for automatic flight data segmentation through automatic feature learning.
-        -{Worked with the R&D team to devise suitable learning algorithms for handling time series data
+        - Worked with the R&D team to devise suitable learning algorithms for handling time series data
         from aircraft simulators that can identify and segment pilot reactions to malfunctions and
         assign these reactions a proficiency metric.
     - role: Research Scientist Intern
@@ -88,7 +88,7 @@ projects:
     intro: >
       A few interesting projects that I have done during my graduate studies at McGill University
     assignments:
-      - title: Learning in games
+      - title: Learning in games.
         link: "#"
         tagline: "Studied different learning frameworks in stochastic games since learning in game theoretic framework is interesting as it does not necessarily guarantee convergence to Nash equilibrium or any concepts of equilibria in general. The project focused on analyzing one of the simplest and earliest form of learning algorithm known as the fictitious play"
 
@@ -100,27 +100,25 @@ projects:
         link: "#"
         tagline: "An adapted version of conventional single agent RL algorithm was applied for swarm robotics in the context of swarms adapting to different target distribution, the work was further extended to incorporate hierarchical reinforcement learning architecture."
 
-      - title: ICLR Reproducibility Challenge:} Analyzed the reproducibility of deep reinforcement learning algorithms for ICLR 2017 Reproducibility challenge.
+      - title: ICLR Reproducibility Challenge. 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Analyzed the reproducibility of deep reinforcement learning algorithms for ICLR 2017 Reproducibility challenge."
 
-      - title: "Unifying On-Policy and Off-Policy Learning in TD Learning and Actor Critic Methods"
+      - title: Unifying On-Policy and Off-Policy Learning in TD Learning and Actor Critic Methods
         link: "#"
         tagline: "Combined the stability of On-Policy TD learning with the efficiency of Off-Policy Learning and proposed a unified approach where the control algorithm either uses on-policy sampled action or off-policy samples depending on the amount of exploration. The idea has been further extended to Actor Critic methods and Q(sigma) algorithm with eligibility traces."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Contains the list of both published and un published articles.
     papers:
       - title: Entropy Regularization with Discounted Future State Distribution in Policy Gradient Methods
         link: "https://arxiv.org/pdf/1912.05104.pdf"
         authors: Riashat Islam, Raihan Seraj, Pierre-Luc Bacon, Doina Precup
         conference: NeurIPS 2019 Workshop on Optimization Foundations for Reinforcement Learning
 
-      - title: "Reinforcement Learning for Mean-field Teams"
+      - title: Reinforcement Learning for Mean-field Teams
         link: "http://www.ece.mcgill.ca/~amahaj1/projects/reinforcement-learning/conference/2019-ala.pdf"
         authors: Jayakumar Subramanian, Raihan Seraj, Aditya Mahajan
         conference: "AAMAS Workshop on Adaptive and Learning Agents, Montreal, Canada, 13-17 May, 2019 ."
@@ -128,7 +126,7 @@ publications:
       - title: The k-means Algorithm A Comprehensive Survey and Performance Evaluation
         link: "https://www.mdpi.com/2079-9292/9/8/1295"
         authors: Mohiuddin Ahmed, Raihan Seraj
-        conference: " Electronics 9.8 (2020): 1295."
+        conference: "Electronics 9.8 (2020): 1295."
 
       - title: Approximate information state for approximate planning and reinforcement learning in partially observed systems
       link: "https://arxiv.org/abs/2010.08843"
