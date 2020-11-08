@@ -104,7 +104,7 @@ projects:
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Unifying On-Policy and Off-Policy Learning in TD Learning and Actor Critic Methods
+      - title: "Unifying On-Policy and Off-Policy Learning in TD Learning and Actor Critic Methods"
         link: "#"
         tagline: "Combined the stability of On-Policy TD learning with the efficiency of Off-Policy Learning and proposed a unified approach where the control algorithm either uses on-policy sampled action or off-policy samples depending on the amount of exploration. The idea has been further extended to Actor Critic methods and Q($\sigma$) algorithm with eligibility traces."
 
