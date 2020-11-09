@@ -46,7 +46,7 @@ career-profile:
 education:
     - degree: PhD in Electrical and Computer Engineering 
       university: McGill University 
-      time: 2019 - Present 
+      time: Jan. 2019 - Present 
       details: |
        Research Interest
         - Multi-agent Reinforcement Learning 
@@ -55,9 +55,14 @@ education:
         - Machine Learning
     - degree: MEng in Electrical and Computer Engineering
       university: McGill University University
-      time: 2017 - 2019
+      time: Jan. 2017 - Jan. 2019
       details: |
         Thesis: Learning in the presence of partial observability and concept drifts. 
+    - degree: BSc in Electrical and Electronic Engineering
+      university: Islamic University of Technology
+      time: Dec. 2011 - Dec. 2015
+      details: |
+        Thesis: Classification of Benign and Malignant Tissue with Logistic Regression using Dynamic Sigmoid Function.
 experiences:
     - role: Mila Scientist in Residence 
       time: Mar. 2019 - Present
