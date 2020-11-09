@@ -153,7 +153,7 @@ publications:
         conference: "Combating Security Challenges in the Age of Big Data"
 
       - title: Doubly Robust Off-Policy Actor Critic Algorithms for Reinforcement Learning
-        link: "hhttps://arxiv.org/pdf/1912.05109.pdf"
+        link: "https://arxiv.org/pdf/1912.05109.pdf"
         authors: Riashat Islam, Raihan Seraj, Samin Yeasar Arnob, Doina Precup
         conference: "NeurIPS 2019 Workshop on Safety and Robustness in Decision Making"
 
