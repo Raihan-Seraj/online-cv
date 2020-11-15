@@ -102,17 +102,17 @@ experiences:
         - Developed a device using twitter api,arduino and raspberry pi that is capable of remotely switching and regulating  any 220V ac devices using the internet. 
 position of responsibility:
     - role: Teaching Assisant 
-    - time: Mar. 2020 - Present
-    - company: COMP 360, Algorithm Design
+      time: Mar. 2020 - Present
+      company: COMP 360, Algorithm Design
     details: McGill University 
     - role: Teaching Assistant 
-    -time: Sep. 2019 - Dec. 2019
-    -company: ECSE 324, Computer Organization
-    -details: McGill University
-    -role: Teaching Assistant
-    -time: Jan. 2019 - Jun. 2019
-    -company: COMP 767, Intelligent Robotics
-    -details: McGill University 
+     time: Sep. 2019 - Dec. 2019
+     company: ECSE 324, Computer Organization
+     details: McGill University
+    - role: Teaching Assistant
+     time: Jan. 2019 - Jun. 2019
+     company: COMP 767, Intelligent Robotics
+     details: McGill University 
 
 projects:
     title: Projects
