@@ -87,10 +87,11 @@ experiences:
       time: Dec. 2015 - Dec. 2016
       company: Department of Biomedical Physics and Technology, University of Dhaka, Bangladesh
       details: |
-        - Worked towards developing an embedded security system using arduino and raspberry pi interfaced with sensors that was integrated in a concrete to build a smart concrete systems for homes.
-        - Worked towards developing an android software using the concept of delay tolerant network capable of handling delayed request for online news paper during lack of network infrastructure.
-        - Developed a quad-copter with a team to work as an air borne extension providing bird's eye view of a wireless controlled rover capable of sending live video stream.
-        - Developed a device using twitter api,arduino and raspberry pi that is capable of remotely switching and regulating  any 220V ac devices using the internet.
+        - Worked on learning algorithms to automatically classify QRS complexes to detect acceptable ECG traces.
+        - Developed a personal computer based telemedicine system with integrated diagnostic equipment like stethoscope, respiration monitor  that use internet for live (real time) data transfer.
+        - Worked on software development for automatic frequency domain analysis to identify neurological disorder from evoked EMG responses.
+        - Developed software both in java and android platform for a 12 lead computerized ECG machine that allows near real time data transmission to and from remote areas.
+        - Developed software for Computerized Dynamic Pedograph System that carry out automatic analysis of pixel values using foot pressures and perform linear plot with pixel values against instant pressure values.
     - role: Reseearch Intern
       time: Feb. 2014 - Nov. 2015
       company: IUT Innovation Lab
@@ -99,6 +100,19 @@ experiences:
         - Worked towards developing an android software using the concept of delay tolerant network capable of handling delayed request for online news paper during lack of network infrastructure.
         - Developed a quad-copter with a team to work as an air borne extension providing bird's eye view of a wireless controlled rover capable of sending live video stream.
         - Developed a device using twitter api,arduino and raspberry pi that is capable of remotely switching and regulating  any 220V ac devices using the internet. 
+position of responsibility:
+    - role: Teaching Assisant 
+    - time: Mar. 2020 - Present
+    - company: COMP 360, Algorithm Design
+    details: McGill University 
+    - role: Teaching Assistant 
+    -time: Sep. 2019 - Dec. 2019
+    -company: ECSE 324, Computer Organization
+    -details: McGill University
+    -role: Teaching Assistant
+    -time: Jan. 2019 - Jun. 2019
+    -company: COMP 767, Intelligent Robotics
+    -details: McGill University 
 
 projects:
     title: Projects
